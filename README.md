@@ -26,11 +26,6 @@ It includes definitions, pronunciation (text + audio), synonyms, dark/light mode
 
 ---
 
-## 📸 Demo
-
-<img src="assets/dict_app.png" alt="Dictionary App Screenshot" width="600"/>
-
----
 
 ## 🔧 Installation & Running Locally
 
