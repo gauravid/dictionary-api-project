@@ -29,10 +29,19 @@ It includes definitions, pronunciation (text + audio), synonyms, dark/light mode
 
 ## 🔧 Installation & Running Locally
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/dictionary-app-streamlit.git
-   cd dictionary-app-streamlit
-2. pip install -r requirements.txt
-3. streamlit run app.py
+Clone the repository:
 
+```bash
+git clone https://github.com/your-username/dictionary-app-streamlit.git
+cd dictionary-app-streamlit
+```
+Install the dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Run the application:
+
+```bash
+streamlit run app.py
+```
